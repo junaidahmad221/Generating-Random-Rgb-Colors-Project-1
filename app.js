@@ -12,7 +12,7 @@ btn.addEventListener("click", function(){
 })
 
 function GenerateColor(){
-    let red = Math.floor(Math.random()*255);
+    let red =  Math.floor(Math.random()*255);
     let green = Math.floor(Math.random()*255);
     let blue = Math.floor(Math.random()*255);
 
